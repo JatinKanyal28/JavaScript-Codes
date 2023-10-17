@@ -1,0 +1,25 @@
+.choiceBtn {
+    line-height: 30px;
+    width: 150px;
+}
+
+#gameDiv {
+    font-family: 'Brush Script MT', cursive;
+    border: 2px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: cadetblue;
+    text-align: center;
+}
+
+#playerText {
+    color: blue;
+}
+
+#computerText {
+    color: brown;
+}
+
+#resultText {
+    color: greenyellow;
+}
